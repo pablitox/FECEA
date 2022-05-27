@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46c170a9-2efe-4131-b403-d8267424993f": {
+      "ProjectGuid": "46c170a9-2efe-4131-b403-d8267424993f",
+      "DisplayName": "Ntec2.Redis",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
